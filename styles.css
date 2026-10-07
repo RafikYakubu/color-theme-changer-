@@ -64,3 +64,12 @@ body.purple {
 body.purple h1 {
     color: #ffffff;
 }
+
+body.yellow {
+    background-color: #ffff00;
+    color: #000000;
+}
+
+body.yellow h1 {
+    color: #000000;
+}
