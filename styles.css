@@ -73,3 +73,10 @@ body.yellow {
 body.yellow h1 {
     color: #000000;
 }
+body.violet {
+    background-color: #8a2be2;
+    color: #ffffff;
+}
+body.violet h1 {
+    color: #ffffff;
+}
